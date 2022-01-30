@@ -29,8 +29,8 @@ Los usuarios deben ser capaces de:
 
 ### Links
 
-- Solucion URL: [Add solution URL here](https://your-solution-url.com)
-- URL del sitio: [Add live site URL here](https://your-live-site-url.com)
+- Solucion URL: [https://github.com/NicolasGula/Profile-card-component](https://github.com/NicolasGula/Profile-card-component)
+- URL del sitio: [https://nicolasgula.github.io/Profile-card-component/](https://nicolasgula.github.io/Profile-card-component/)
 
 ### CONSTRUIDO CON...
 
